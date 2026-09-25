@@ -1,7 +1,7 @@
 # Sprint 01
 ## Plataforma de cine para pequeños cineastas
 
-**Duración sugerida:** 2 semanas
+**Duración sugerida:** 3 semanas
 
 **Objetivo del sprint (Sprint Goal):**
 Permitir que un cineasta se registre en la plataforma, cree y administre su perfil, y publique su primera producción audiovisual.
